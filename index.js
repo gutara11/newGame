@@ -1,3 +1,4 @@
+// User Score
 let score = 0;
 const scoreDisplay = document.getElementById('score');
 
